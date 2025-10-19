@@ -12,6 +12,6 @@ public class Main {
     private static void fun(){
         int a = 10;
         int b = 20;
-        int c = 30;
+        int c = 40;
     }
 }
